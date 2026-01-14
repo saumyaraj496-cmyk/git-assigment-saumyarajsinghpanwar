@@ -1,0 +1,2 @@
+#GitHub & Git Assignment
+## From the GitHub video, I learned how version control actually works in real projects, not just in theory. I understood how repositories store project history, why commits should be small and meaningful, and how branching helps in experimenting without breaking the main codebase. The video also clarified how GitHub is used for collaboration—pushing code, pulling updates, resolving merge conflicts, and tracking changes through pull requests. Overall, it helped me see GitHub as a professional workflow tool rather than just a place to upload code.
